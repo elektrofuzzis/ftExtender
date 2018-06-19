@@ -6,6 +6,8 @@ Der I²C-Bus am TX(T) ist universell. Es lassen sich Sensoren und Aktoren für a
 Versorgungspannung, Logikspannung und der Anschluss mehrerer Devices, so dass für den Anschluß von I²C-Geräten nur noch das passende
 Kabel benötigt wird.
 
+Das Projekt kann ebenfalls in Arduino und Raspberry Pi Projekten eingesetzt werden.
+
 Im wiki https://github.com/elektrofuzzis/ftExtender/wiki/ftExtender-Wiki sind Benutzung und Nachbau des ftExtender beschrieben. Der ftExtender ist auch als fertiges Gerät verfügbar.
 
 Der ftExtender ist ein Community-Projekt von www.ftcommunity.de.
@@ -13,6 +15,8 @@ Der ftExtender ist ein Community-Projekt von www.ftcommunity.de.
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 Using the build in I²C-interface of fischertechnik TX and TXT controllers, you could connect all types of I²C devices. You could connect a ftDuino and us it as a simple I/O extension in RoboPro, too. But if you want to use a I²C device, you need to discuss logic levels and a power supply, first. This project solves these problems and you just need some cables to connect your devices.
+
+You could use the ftExtender in your Arduino or Raspberry Pi projects, too.
 
 The wiki https://github.com/elektrofuzzis/ftExtender/wiki/ftExtender-Wiki describes usage and reprodution of the ftExtender. The ftExtender is available as a ready-made system, too. 
 
