@@ -1,5 +1,7 @@
 # ftExtender
 
+<p align="center"><img src="https://github.com/elektrofuzzis/ftExtender/wiki/img/ftExtender_gehaeuse.png" alt="Der ftExtender im fertigen Gehäuse" width="400"></p>
+
 *** english text below ***
 
 Der I²C-Bus am TX(T) ist universell. Es lassen sich Sensoren und Aktoren für alle Anwendungsfälle anschließen und auch der ftDuino kann als preiswertes Erweiterungsboard am TX(T) angeschlossen werden. Der hier vorgestellte ftExtender löst die immer wiederkehrenden Themen
