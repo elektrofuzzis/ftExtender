@@ -8,7 +8,7 @@ Kabel benötigt wird.
 
 Das Projekt kann ebenfalls in Arduino und Raspberry Pi Projekten eingesetzt werden.
 
-Im wiki https://github.com/elektrofuzzis/ftExtender/wiki sind Benutzung und Nachbau des ftExtender beschrieben. Der ftExtender ist auch als fertiges Gerät verfügbar.
+Im wiki https://github.com/elektrofuzzis/ftExtender/wiki sind Benutzung und Nachbau des ftExtender beschrieben. Der ftExtender ist als fertiges Gerät über mailto:ftextender@gundermann.org verfügbar.
 
 Der ftExtender ist ein Community-Projekt von www.ftcommunity.de.
 
