@@ -10,7 +10,7 @@ Kabel benötigt wird.
 
 Das Projekt kann ebenfalls in Arduino und Raspberry Pi Projekten eingesetzt werden.
 
-Im wiki https://github.com/elektrofuzzis/ftExtender/wiki sind Benutzung und Nachbau des ftExtender beschrieben. Der ftExtender ist als fertiges Gerät über ft-extender@gundermann.org verfügbar.
+Im wiki https://github.com/elektrofuzzis/ftExtender/wiki sind Benutzung und Nachbau des ftExtender beschrieben. Der ftExtender ist als fertiges Gerät verfügbar und kann hier bestellt werden: https://gundermann-software.de/shop
 
 Der ftExtender ist ein Community-Projekt von www.ftcommunity.de.
 
@@ -20,6 +20,6 @@ Using the build in I²C-interface of fischertechnik TX and TXT controllers, you 
 
 You could use the ftExtender in your Arduino or Raspberry Pi projects, too.
 
-The wiki https://github.com/elektrofuzzis/ftExtender/wiki describes usage and reprodution of the ftExtender. The ftExtender is available as a ready-made system, too. Please contact ft-extender@gundermann.org. 
+The wiki https://github.com/elektrofuzzis/ftExtender/wiki describes usage and reprodution of the ftExtender. The ftExtender is available as a ready-made system, too. Please visit: https://gundermann-software.de/shop
 
 This is a community project of www.ftcommunity.de. 
